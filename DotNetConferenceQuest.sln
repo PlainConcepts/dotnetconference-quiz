@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quest1", "Quest1", "{9D233C7D-254C-4C59-B3CF-A923FEBF32C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetConference.Quest1", "Quest1\DotNetConference.Quest1\DotNetConference.Quest1.csproj", "{875FF82A-88E2-4AFC-AB97-338E4422C24F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quest2", "Quest2", "{DF8F367F-5A3D-428B-95BE-0F92A794FA9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetConference.Quest2", "Quest2\DotNetConference.Quest2\DotNetConference.Quest2.csproj", "{ACA8D5EE-EEC2-456F-A6F3-28D177C3C289}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quest3", "Quest3", "{3BA4DF89-0BD0-469F-8E62-80C892B49B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetConference.Quest3", "Quest3\DotNetConference.Quest3\DotNetConference.Quest3.csproj", "{29E6AB8C-07E4-4B75-9AD6-E94D9A71E11C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quest4", "Quest4", "{50FA7447-B9D7-41B8-812A-CB44AC47AC03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetConference.Quest4", "Quest4\DotNetConference.Quest4\DotNetConference.Quest4.csproj", "{A27AFE0B-07E0-492F-A8F2-B09B709A1671}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quest5", "Quest5", "{D1D6483B-756A-4096-8098-1777E63434DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetConference.Quest5", "Quest5\DotNetConference.Quest5\DotNetConference.Quest5.csproj", "{E04B9D7D-1B95-4D01-B413-1CD2CA0BB5FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875FF82A-88E2-4AFC-AB97-338E4422C24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875FF82A-88E2-4AFC-AB97-338E4422C24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875FF82A-88E2-4AFC-AB97-338E4422C24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875FF82A-88E2-4AFC-AB97-338E4422C24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA8D5EE-EEC2-456F-A6F3-28D177C3C289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA8D5EE-EEC2-456F-A6F3-28D177C3C289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA8D5EE-EEC2-456F-A6F3-28D177C3C289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA8D5EE-EEC2-456F-A6F3-28D177C3C289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E6AB8C-07E4-4B75-9AD6-E94D9A71E11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E6AB8C-07E4-4B75-9AD6-E94D9A71E11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E6AB8C-07E4-4B75-9AD6-E94D9A71E11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E6AB8C-07E4-4B75-9AD6-E94D9A71E11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27AFE0B-07E0-492F-A8F2-B09B709A1671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27AFE0B-07E0-492F-A8F2-B09B709A1671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27AFE0B-07E0-492F-A8F2-B09B709A1671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27AFE0B-07E0-492F-A8F2-B09B709A1671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04B9D7D-1B95-4D01-B413-1CD2CA0BB5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04B9D7D-1B95-4D01-B413-1CD2CA0BB5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04B9D7D-1B95-4D01-B413-1CD2CA0BB5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04B9D7D-1B95-4D01-B413-1CD2CA0BB5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{875FF82A-88E2-4AFC-AB97-338E4422C24F} = {9D233C7D-254C-4C59-B3CF-A923FEBF32C8}
+		{ACA8D5EE-EEC2-456F-A6F3-28D177C3C289} = {DF8F367F-5A3D-428B-95BE-0F92A794FA9B}
+		{29E6AB8C-07E4-4B75-9AD6-E94D9A71E11C} = {3BA4DF89-0BD0-469F-8E62-80C892B49B84}
+		{A27AFE0B-07E0-492F-A8F2-B09B709A1671} = {50FA7447-B9D7-41B8-812A-CB44AC47AC03}
+		{E04B9D7D-1B95-4D01-B413-1CD2CA0BB5FA} = {D1D6483B-756A-4096-8098-1777E63434DB}
+	EndGlobalSection
+EndGlobal
