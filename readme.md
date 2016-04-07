@@ -17,7 +17,9 @@ static void Test(out int x, out int y)
 3. Puede ser cierto
 4. No compila
 
-## Pregunta 2
+Puedes consultar la solución [aquí](Quest1/readme.md).
+
+## Pregunta 2 
 ```c#
 static void Main(string[] args)
 {
@@ -35,7 +37,9 @@ static void Main(string[] args)
 3. Nunca se imprime el valor de Value
 4. No compila
 
-## Pregunta 3
+Puedes consultar la solución [aquí](Quest2/readme.md).
+
+## Pregunta 3 
 ```c#
 int x = 1;
 x = x++;
@@ -46,7 +50,9 @@ x = x++;
 3. No existe el operador ++
 4. No compila
 
-## Pregunta 4
+Puedes consultar la solución [aquí](Quest3/readme.md).
+
+## Pregunta 4 
 ```c#
 static void Main(string[] args)
 {
@@ -64,6 +70,8 @@ static void Main(string[] args)
 4. TRUE, TRUE, FALSE
 5. FALSE, TRUE, TRUE
 6. FALSE, TRUE, FALSE
+
+Puedes consultar la solución [aquí](Quest4/readme.md).
 
 ## Pregunta 5
 ```c#
@@ -86,3 +94,5 @@ static void Main(string[] args)
 3. Casi 10
 4. No termina
 5. 1
+
+Puedes consultar la solución [aquí](Quest5/readme.md).
