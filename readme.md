@@ -1,7 +1,8 @@
 # Dot Net Conference Quiz
 
-Para cada pregunta, marca con un círculo el resultado correcto que generan las líneas siguientes de código:
+**Nota:** Puedes leer el post explicando todas las preguntas en el [blog de MSDN](https://blogs.msdn.microsoft.com/esmsdn/2016/04/14/cuanto-sabes-de-c-y-net-soluciones-al-cuestionario-de-la-dot-net-conference/).
 
+Para cada pregunta, marca con un círculo el resultado correcto que generan las líneas siguientes de código:
 ## Pregunta 1 
 ```c#
 static void Test(out int x, out int y)
@@ -96,3 +97,7 @@ static void Main(string[] args)
 5. 1
 
 Puedes consultar la solución [aquí](Quest5/readme.md).
+
+## Slides
+
+Puedes descargar las slides [aquí](PlainConcepts%20-%20Dot%20Net%20Conference%20Quiz%20C%23.pptx?raw=true).
